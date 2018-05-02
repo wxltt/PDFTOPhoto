@@ -1,0 +1,10 @@
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\bin\Debug\PDFToPhoto.exe.config
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\bin\Debug\PDFToPhoto.exe
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\bin\Debug\PDFToPhoto.pdb
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\bin\Debug\O2S.Components.PDFRender4NET.dll
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.csprojResolveAssemblyReference.cache
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.Properties.Resources.resources
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.csproj.GenerateResource.Cache
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.csproj.CoreCompileInputs.cache
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.exe
+E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.pdb
