@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace PDFToPhoto
 {
-    public  static class Program
+    public static class Program
     {
         public enum Definition
 
@@ -45,7 +45,7 @@ namespace PDFToPhoto
             string imageName, int startPageNum, int endPageNum, ImageFormat imageFormat, Definition definition)
 
         {
-
+            //地方
             PDFFile pdfFile = PDFFile.Open(pdfInputPath);
 
             if (!Directory.Exists(imageOutputPath))
