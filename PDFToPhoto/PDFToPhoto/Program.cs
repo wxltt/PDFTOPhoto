@@ -51,7 +51,7 @@ namespace PDFToPhoto
             if (!Directory.Exists(imageOutputPath))
 
             {
-
+                //豆腐干
                 Directory.CreateDirectory(imageOutputPath);
 
             }
