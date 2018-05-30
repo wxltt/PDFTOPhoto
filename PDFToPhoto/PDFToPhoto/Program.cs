@@ -45,6 +45,7 @@ namespace PDFToPhoto
             string imageName, int startPageNum, int endPageNum, ImageFormat imageFormat, Definition definition)
 
         {
+            //dfgdh
             //规划法规和
             PDFFile pdfFile = PDFFile.Open(pdfInputPath);
 
