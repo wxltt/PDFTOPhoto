@@ -8,3 +8,14 @@ E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.csproj.GenerateReso
 E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.csproj.CoreCompileInputs.cache
 E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.exe
 E:\demo\pdf转换\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.pdb
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\bin\Debug\PDFToPhoto.exe.config
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\bin\Debug\PDFToPhoto.exe
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\bin\Debug\PDFToPhoto.pdb
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\bin\Debug\O2S.Components.PDFRender4NET.dll
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.csprojAssemblyReference.cache
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.Properties.Resources.resources
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.csproj.GenerateResource.cache
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.csproj.CoreCompileInputs.cache
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.csproj.CopyComplete
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.exe
+E:\项目\PDFToPhoto\PDFToPhoto\PDFToPhoto\obj\Debug\PDFToPhoto.pdb
