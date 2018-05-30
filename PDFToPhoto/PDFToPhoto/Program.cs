@@ -45,7 +45,7 @@ namespace PDFToPhoto
             string imageName, int startPageNum, int endPageNum, ImageFormat imageFormat, Definition definition)
 
         {
-            //地方
+            
             PDFFile pdfFile = PDFFile.Open(pdfInputPath);
 
             if (!Directory.Exists(imageOutputPath))
